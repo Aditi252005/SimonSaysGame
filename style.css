@@ -1,0 +1,38 @@
+.line-one{
+    display: flex;
+    justify-content: center;
+}
+.line-two{
+    display: flex;
+    justify-content: center;
+}
+.whole{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 15px;
+}
+.pink{
+    background: pink;
+}    
+.purple{
+    background: rgb(205, 141, 205);
+}
+.blue{
+    background: rgb(133, 223, 235);
+}
+.green{
+    background-color: rgb(166, 248, 221);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color:green;
+}
